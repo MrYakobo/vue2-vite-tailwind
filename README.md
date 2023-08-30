@@ -10,6 +10,7 @@ Vite keeps my build times low and tailwind is nice to use with Vue.
 git clone --depth 1 https://github.com/MrYakobo/vue2-vite-tailwind
 cd vue2-vite-tailwind
 rm -rf .git
+npm i
 npm run dev # do your work in App.vue
 ```
 
